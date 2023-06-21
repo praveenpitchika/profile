@@ -1,0 +1,24 @@
+.text{
+    color: aliceblue;
+    font-family: 'Roboto' , sans-serif;
+    font-size: 1rem;
+}
+.homecon{
+    position: relative;
+}   
+.homesubcon{
+    position: absolute;
+    top: 30%;
+}
+.heading{
+    color: cyan; 
+    font-family: 'Roboto' , sans-serif;
+    font-weight: bolder;
+}
+.paragraph{
+    
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto' , sans-serif;
+}
+
